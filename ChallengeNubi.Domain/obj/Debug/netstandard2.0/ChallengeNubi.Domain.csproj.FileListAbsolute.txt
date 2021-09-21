@@ -1,0 +1,8 @@
+C:\Users\Nicolin\source\repos\ChallengeNubi\ChallengeNubi.Domain\bin\Debug\netstandard2.0\ChallengeNubi.Domain.deps.json
+C:\Users\Nicolin\source\repos\ChallengeNubi\ChallengeNubi.Domain\bin\Debug\netstandard2.0\ChallengeNubi.Domain.dll
+C:\Users\Nicolin\source\repos\ChallengeNubi\ChallengeNubi.Domain\bin\Debug\netstandard2.0\ChallengeNubi.Domain.pdb
+C:\Users\Nicolin\source\repos\ChallengeNubi\ChallengeNubi.Domain\obj\Debug\netstandard2.0\ChallengeNubi.Domain.AssemblyInfoInputs.cache
+C:\Users\Nicolin\source\repos\ChallengeNubi\ChallengeNubi.Domain\obj\Debug\netstandard2.0\ChallengeNubi.Domain.AssemblyInfo.cs
+C:\Users\Nicolin\source\repos\ChallengeNubi\ChallengeNubi.Domain\obj\Debug\netstandard2.0\ChallengeNubi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nicolin\source\repos\ChallengeNubi\ChallengeNubi.Domain\obj\Debug\netstandard2.0\ChallengeNubi.Domain.dll
+C:\Users\Nicolin\source\repos\ChallengeNubi\ChallengeNubi.Domain\obj\Debug\netstandard2.0\ChallengeNubi.Domain.pdb

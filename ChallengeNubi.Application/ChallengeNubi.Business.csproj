@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ChallengeNubi.Common\ChallengeNubi.Common.csproj" />
+    <ProjectReference Include="..\ChallengeNubi.DA\ChallengeNubi.DA.csproj" />
+    <ProjectReference Include="..\ChallengeNubi.Services\ChallengeNubi.Services.csproj" />
+  </ItemGroup>
+
+</Project>

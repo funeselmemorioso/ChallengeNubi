@@ -1,0 +1,12 @@
+
+
+1 - Ir a appSettings y configurar la base y la ruta de generación de los archivos 
+    (por default están en la caperta "archivosGenerados")
+
+2 - Para generar la base de datos, ejecutar desde la consola de nuget, migrations:
+
+	update-database -Context ChallengeNubiDbContext
+
+3 - El proyecto de inicio es ChallengeNubi, al ejecutarlo se verá la pantalla de swagger.
+
+

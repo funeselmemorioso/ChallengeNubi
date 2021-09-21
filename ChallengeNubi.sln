@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChallengeNubi", "ChallengeNubi\ChallengeNubi.csproj", "{1666B42E-E580-4923-AC6E-0E9A2C15CD8F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChallengeNubi.DA", "ChallengeNubi.DA\ChallengeNubi.DA.csproj", "{57D30073-D026-47F8-9D7B-6F619E3C1718}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChallengeNubi.Services", "ChallengeNubi.Services\ChallengeNubi.Services.csproj", "{E0BC5BB7-DBC7-4459-A5B8-99FAD0A0F6D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChallengeNubi.Domain", "ChallengeNubi.Domain\ChallengeNubi.Domain.csproj", "{B4031E19-CB3D-411E-8258-621E07199A48}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChallengeNubi.Business", "ChallengeNubi.Application\ChallengeNubi.Business.csproj", "{87F227A6-C17A-407F-8673-F9EAF2A78E9E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChallengeNubi.Common", "ChallengeNubi.Common\ChallengeNubi.Common.csproj", "{79D81074-AA63-4EE3-B6ED-4B1DBD5F6D42}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentacion", "Documentacion", "{5D83A2B3-6857-43BF-812E-B258D3C79ADA}"
+	ProjectSection(SolutionItems) = preProject
+		Ayuda.txt = Ayuda.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1666B42E-E580-4923-AC6E-0E9A2C15CD8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1666B42E-E580-4923-AC6E-0E9A2C15CD8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1666B42E-E580-4923-AC6E-0E9A2C15CD8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1666B42E-E580-4923-AC6E-0E9A2C15CD8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57D30073-D026-47F8-9D7B-6F619E3C1718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D30073-D026-47F8-9D7B-6F619E3C1718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D30073-D026-47F8-9D7B-6F619E3C1718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D30073-D026-47F8-9D7B-6F619E3C1718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0BC5BB7-DBC7-4459-A5B8-99FAD0A0F6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0BC5BB7-DBC7-4459-A5B8-99FAD0A0F6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0BC5BB7-DBC7-4459-A5B8-99FAD0A0F6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0BC5BB7-DBC7-4459-A5B8-99FAD0A0F6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4031E19-CB3D-411E-8258-621E07199A48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4031E19-CB3D-411E-8258-621E07199A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4031E19-CB3D-411E-8258-621E07199A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4031E19-CB3D-411E-8258-621E07199A48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87F227A6-C17A-407F-8673-F9EAF2A78E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F227A6-C17A-407F-8673-F9EAF2A78E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F227A6-C17A-407F-8673-F9EAF2A78E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F227A6-C17A-407F-8673-F9EAF2A78E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79D81074-AA63-4EE3-B6ED-4B1DBD5F6D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D81074-AA63-4EE3-B6ED-4B1DBD5F6D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D81074-AA63-4EE3-B6ED-4B1DBD5F6D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D81074-AA63-4EE3-B6ED-4B1DBD5F6D42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F1C7D8E-9D7C-40CB-836B-C8E993F3C39F}
+	EndGlobalSection
+EndGlobal

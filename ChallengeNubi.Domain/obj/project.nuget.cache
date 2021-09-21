@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tUvIXumh4m5UWldpOByV0kkYjLZ4ATyt+m4vOZj5ChrKprxwTyZe2pIq8InzRoeat/OhLk+pRO9UH9rF2fxtfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nicolin\\source\\repos\\ChallengeNubi\\ChallengeNubi.Domain\\ChallengeNubi.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Nicolin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
